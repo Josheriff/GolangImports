@@ -10,3 +10,8 @@ func main() {
 	// we put lowercase in the model, only accesible by the controller
 
 }
+
+// mlab connection:
+// user:gopher
+// password: gogogo
+// mongodb://gopher:gogogo@ds119395.mlab.com:19395/tryinggolang
